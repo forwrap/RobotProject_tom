@@ -20,6 +20,10 @@ MySecondTest
 
 MyThirdTest    
     Log    Tom3
+    
+
+MyFourthTest
+    Log    I am in side 4th test (tom)
 
 #FirstSeleniumTest
  #   Open Browser    https://google.com    chrome
